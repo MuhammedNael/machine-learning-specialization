@@ -2,6 +2,7 @@
 
 <div align="center">
   <img src="./images/dlai-logo.png" alt="DeepLearning.AI Logo" width="200" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./images/stanford-logo.png" alt="Stanford Logo" width="150" />
 </div>
 
@@ -24,8 +25,6 @@ This repository showcases my completed projects and coursework from the **Machin
 - Developed a **deep reinforcement learning model** for advanced applications.  
 
 ## **Certification**  
-I have successfully completed the **Machine Learning Specialization** offered by [DeepLearning.AI](https://www.deeplearning.ai/) and [Stanford University](https://online.stanford.edu/).  
-
 [![Certification](https://img.shields.io/badge/Certification-Machine_Learning_Specialization-blue)](https://www.coursera.org/account/accomplishments/specialization/XYZ123)  
 *Click the badge to verify my certification.*  
 
