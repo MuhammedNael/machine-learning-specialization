@@ -25,7 +25,7 @@ This repository showcases my completed projects and coursework from the **Machin
 - Developed a **deep reinforcement learning model** for advanced applications.  
 
 ## **Certification**  
-[![Certification](https://img.shields.io/badge/Certification-Machine_Learning_Specialization-blue)](https://www.coursera.org/account/accomplishments/specialization/XYZ123)  
+[![Certification](https://img.shields.io/badge/Certification-Machine_Learning_Specialization-blue)](https://www.coursera.org/account/accomplishments/specialization/K4EOK97QP3IN)  
 *Click the badge to verify my certification.*  
 
 ## **Disclaimer**  
